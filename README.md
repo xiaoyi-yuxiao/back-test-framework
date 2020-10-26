@@ -1,0 +1,4 @@
+# back-test-framework
+可以进行算法编写的轻量级回测系统
+只需要将yfinance下载的数据录入data目录，再实现algos，就可以进行回测，algo具体的编写有testcase
+可以根据几天更新portfolio，计算因子的period，去编写algo，
